@@ -1,3 +1,3 @@
 # vae
-## A toy example of Variational AutoEncoder on MNIST using Pytorch
+### A collection of diffferent vairational Auto-Encoder implementation in Pytorch
 
